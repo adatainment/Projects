@@ -1,5 +1,11 @@
 {
   "projects": [
+    {"title": "CardanoVSC", "owner": "AIQUANT-Tech", "names": ["CardanoVSC"]},
+    {"title": "Cardano Review and Reputation", "owner": "AIQUANT-Tech", "names": ["CardanoRnR"]},
+    {"title": "Hummingbot Connector", "owner": "AIQUANT-Tech", "names": ["HummingbotGateway", "hummingbot"]},
+    {"title": "CardanoPyC", "owner": "AIQUANT-Tech", "names": ["CardanoPyC"]},
+    {"title": "CardanoJ", "owner": "CardanoJ", "names": ["cardanoJ"]},
+    {"title": "Hotel Guest Experience", "owner": "AIQUANT-Tech", "names": ["HGE_SC"]},
     {"title": "Djed Alliance", "owner": "DjedAlliance"},
     {"title": "Spectrum Finance", "owner": "spectrum-finance"},
     {"title": "Yoroi", "owner": "Emurgo", "names": ["yoroi-mobile", "yoroi-frontend", "yoroi-extension-ledger-connect", "yoroi-extension-ledger-connect-handler"]},
@@ -8,12 +14,14 @@
     {"title": "Kupo", "owner": "CardanoSolutions", "names": ["kupo"]},
     {"title": "MeshJS", "owner": "MeshJs", "names": ["mesh"]},
     {"title": "SIDAN Lab", "owner": "sidan-lab"},
+    {"title": "DeltaDeFi", "owner": "deltadefi-protocol"},
     {"title": "Marlowe", "owner": "input-output-hk", "names": ["marlowe-cardano"]},
     {"title": "Cardano Node", "owner": "IntersectMBO", "names": ["cardano-node"]},
     {"title": "Daedalus", "owner": "input-output-hk", "names": ["daedalus"]},
     {"title": "Catalyst", "owner": "input-output-hk", "names": ["catalyst-voices", "hermes", "catalyst-ci", "catalyst-libs", "catalyst-forge", "jormungandr"]},
     {"title": "Hydra", "owner": "input-output-hk", "names": ["hydra"]},
     {"title": "Mithril", "owner": "input-output-hk", "names": ["mithril"]},
+    {"title": "Acropolis", "owner": "input-output-hk", "names": ["caryatid", "acropolis"]},
     {"title": "Plutus", "owner": "IntersectMBO", "names": ["plutus"]},
     {"title": "Plutus Apps", "owner": "IntersectMBO", "names": ["plutus-apps"]},
     {"title": "Cardano DbSync", "owner": "IntersectMBO", "names": ["cardano-db-sync"]},
@@ -61,7 +69,7 @@
     {"title": "Swyp", "owner": "SAIB-Inc", "names": ["swyp"]},
     {"title": "SAIB Inc.", "owner": "SAIB-Inc", "names": ["docs.saib.dev", "cardanosharp-wallet", "website"]},
     {"title": "Hydrozoa", "owner": "cardano-hydrozoa"},
-    {"title": "Tx3", "owner": "TxPipe", "names": ["tx3"]},
+    {"title": "Tx3", "owner": "tx3-lang", "names": ["tx3", "trix", "lsp", "up", "vscode-tx3", "web-sdk", "python-sdk", "go-sdk", "rust-sdk", "mcp", "registry", "tx3-hydra", "hydra-app-example", "toolchain", "docs"]},
     {"title": "Adder", "owner": "blinklabs-io", "names": ["adder", "adder-library-starter-kit", "adder-mobile", "adder-webhook-starter-kit"]},
     {"title": "Bluefin", "owner": "blinklabs-io", "names": ["bluefin", "merkle-patricia-forestry"]},
     {"title": "Bursa", "owner": "blinklabs-io", "names": ["bursa"]},
@@ -77,6 +85,10 @@
     {"title": "Tx Submit API", "owner": "blinklabs-io", "names": ["tx-submit-api", "tx-submit-api-mirror"]},
     {"title": "TxTop", "owner": "blinklabs-io", "names": ["txtop"]},
     {"title": "NMKR", "owner": "nftmakerio"},
-    {"title": "Masumi", "owner": "masumi-network"}
+    {"title": "Masumi", "owner": "masumi-network"},
+    {"title": "Scalus", "owner": "scalus3", "names": ["scalus"]},
+    {"title": "Lace", "owner": "input-output-hk", "names": ["lace"]},
+    {"title": "PaylKoyn", "owner": "SAIB-Inc", "names": ["paylkoyn"]},
+    {"title": "Evolution SDK", "owner": "no-witness-labs", "names": ["evolution-sdk"]}
   ]
 }
